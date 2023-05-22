@@ -10,4 +10,4 @@
       LinkedIn : https://www.linkedin.com/in/0x2nac0nda/
 
 ## About Me
-Abdalla Abdelrhman From Sudan, and Offensive Security Researcher | CTF Player | Part-time Bug Bounty Hunter 
+Abdalla Abdelrhman From Sudan, and Senior Information Security | CTF Player | Part-time Bug Bounty Hunter
