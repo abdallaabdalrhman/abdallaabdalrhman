@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdalla Abdelrhman Or 0x2nc0nda
+- 👋 Hi, I’m Abdalla Abdelrhman
 - 👀 I’m interested in => Exploit Development, Ransomware, Web Application Security, Machines, CTF
 - 🌱 I’m currently learning => Programming, Problem Solving
 - 💞️ I’m looking to collaborate on => CTF 
@@ -10,4 +10,4 @@
       LinkedIn : https://www.linkedin.com/in/0x2nac0nda/
 
 ## About Me
-Abdalla Abdelrhman From Sudan, and Senior Information Security | CTF Player | Part-time Bug Bounty Hunter
+Abdalla Abdelrhman From Sudan, and Security Engineer | CTF Player | Part-time Bug Bounty Hunter
