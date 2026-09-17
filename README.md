@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header" />
+<p align="center">
+  <img width="100%" src="./banner.png" alt="0x2nac0nda banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Abdalla+Abdelrhman+%3C3;Offensive+Security+Consultant;Breaking+it.+Understanding+it.+Fixing+it." alt="Typing SVG" />
@@ -56,28 +58,18 @@ I'm **Abdalla Abdelrhman** (`0x2nac0nda`), an **Offensive Security Consultant** 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0x2nac0nda&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=0x2nac0nda&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdallaabdalrhman&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=abdallaabdalrhman&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x2nac0nda&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallaabdalrhman&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x2nac0nda&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallaabdalrhman&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
 ---
 
 <p align="center"><i>"Break it. Understand it. Help fix it."</i></p>
-
----
-
-### 📬 Establish Connection
-
-Ready to secure your digital assets? Let's talk.
-
-📧 [abdallaabdalrhman629@gmail.com](mailto:abdallaabdalrhman629@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/0x2nac0nda) &nbsp;·&nbsp; 🐦 [@0x2nac0nda](https://x.com/0x2nac0nda)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
