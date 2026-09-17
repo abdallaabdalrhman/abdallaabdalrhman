@@ -69,5 +69,3 @@ I'm **Abdalla Abdelrhman** (`0x2nac0nda`), an **Offensive Security Consultant** 
 ---
 
 <p align="center"><i>"Break it. Understand it. Help fix it."</i></p>
-
-
