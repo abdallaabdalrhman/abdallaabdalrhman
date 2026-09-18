@@ -76,11 +76,3 @@ With **6+ years of hands-on experience** in Vulnerability Assessment and Penetra
   <!-- Contribution snake graph — generate this by adding the GitHub Action described below -->
   <img src="https://raw.githubusercontent.com/abdallaabdalrhman/abdallaabdalrhman/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake graph" />
 </p>
-
----
-
-### ⚡ Support
-
-If any of my tools, writeups, or research helped you out, a ⭐ on the repo goes a long way.
-
-<p align="center"><i>"Break it. Understand it. Help fix it."</i></p>
