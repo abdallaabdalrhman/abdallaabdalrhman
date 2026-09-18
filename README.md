@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./banner.png" alt="0x2nac0nda banner" />
+  <img width="100%" src="./banner.png" alt="Abdalla Abdelrhman banner" />
 </p>
 
 <p align="center">
@@ -17,40 +17,42 @@
 
 ### Hi there 👋
 
-I'm **Abdalla Abdelrhman** (`0x2nac0nda`), an **Offensive Security Consultant** — `OSWE` · `eWPTx` · `eMAPT` — and HTB Pro Lab operator (**Dante, Zephyr, Rastalabs, Offshore, Cybernetics**). With a strong passion for adversarial security, I specialize in penetration testing, red teaming, and vulnerability research, with the goal of helping organizations build a more resilient digital ecosystem.
+I'm **Abdalla Abdelrhman** (`0x2nac0nda`), an **Offensive Security Consultant** — `OSWE` · `eWPTx` · `eMAPT` — and HTB Pro Lab operator (**Dante, Zephyr, Rastalabs, Offshore, Cybernetics**).
+
+With **6+ years of hands-on experience** in Vulnerability Assessment and Penetration Testing, I specialize in breaking things on purpose — web, mobile, network, and Active Directory environments — so organizations can fix them before someone else finds them first. My goal is to help fintech, banking, government, and enterprise teams reduce risk through realistic adversarial simulation, and to give back to the security community through research and CTF play along the way.
 
 ---
 
 ### 🛠️ Knowledge & Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/BURP%20SUITE-FF6633?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/METASPLOIT-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/COBALT%20STRIKE-8B0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MIMIKATZ-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GHIDRA-6E1010?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FRIDA-99004D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-121011?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cobalt%20Strike-8B0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mimikatz-4B0082?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ghidra-6E1010?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frida-99004D?style=flat-square" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/KALI%20LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/PARROT%20OS-15DD9E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BLACKARCH-000000?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-15DD9E?style=flat-square" />
+  <img src="https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -59,13 +61,34 @@ I'm **Abdalla Abdelrhman** (`0x2nac0nda`), an **Offensive Security Consultant** 
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdallaabdalrhman&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://streak-stats.demolab.com?user=abdallaabdalrhman&theme=dark&hide_border=true&mode=weekly" />
+  <img height="165" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallaabdalrhman&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallaabdalrhman&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdallaabdalrhman&theme=dark&hide_border=true&mode=weekly" />
+</p>
+
+<p align="center">
+  <!-- Contribution snake graph — generate this by adding the GitHub Action described below -->
+  <img src="https://raw.githubusercontent.com/abdallaabdalrhman/abdallaabdalrhman/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake graph" />
 </p>
 
 ---
+
+### ⚡ Support
+
+If any of my tools, writeups, or research helped you out, a ⭐ on the repo goes a long way.
 
 <p align="center"><i>"Break it. Understand it. Help fix it."</i></p>
